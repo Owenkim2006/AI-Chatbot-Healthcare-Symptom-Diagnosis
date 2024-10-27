@@ -1,4 +1,4 @@
-# AI-Chatbot-Healthcare-Symptom-Diagnosis
+# DocChat.AI
 ## Starting Date: 10/26/2024
 ## Planning
 ## get dataset
